@@ -17,6 +17,9 @@ export default function LandingPage() {
           <Link to="/login" className="text-slate-600 hover:text-brand-600 font-medium transition-colors">
             Masuk
           </Link>
+          <Link to="/register" className="text-slate-600 hover:text-brand-600 font-medium transition-colors">
+            Daftar
+          </Link>
           <Link to="/login" className="bg-brand-600 text-white px-5 py-2 rounded-full font-semibold hover:bg-brand-700 transition-all shadow-lg shadow-brand-200">
             Mulai Lapor
           </Link>
